@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">iBook</string>
+    <!-- Order of weekday/day label in week view -->
+    <string name="weekday_day">%1$s %2$s</string>
+    
+    
+    
+    <!--  Add meeting -->
+    <string name="meetingHeaderText">Event or Meeting</string>
+    <string name="meetingLabelText">Event Title</string>
+    <string name="scheduleHeaderText">
+        <u>Schedule</u>
+    </string>
+    <string name="scheduleStartLabel">Event Start</string>
+    <string name="scheduleEndLabel">Event End</string>
+    <string name="contactHeaderText">
+        <u>Your contact details</u>
+    </string>
+    <string name="contactNameLabel">Name</string>
+    <string name="contactEmailLabel">Email</string>
+    <string name="buttonOK">OK</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonDelete">Delete</string>
+    <string name="hintTitle">Describe your event</string>
+    <string name="hintName">Your name</string>
+    <string name="hintEmail">Your email address</string>
+    <string name="bookAdmin">Book as admin</string>
+    
+    <!-- Week view -->
+    <string name="next_week">Next week</string>
+    <string name="previous_week">Previous week</string>
+    <string name="go_to_today">Go to today</string>
+    
+    <!-- About -->
+    <string name="aboutTxt">
+        (C) KTU Event Booker 2017\n\
+        <b>Authors:</b>
+        @aidoo\n\n\
+
+    </string>
+    
+    <!-- Screensaver -->
+    <string name="screensaver_msg">Touch me!</string>
+</resources>

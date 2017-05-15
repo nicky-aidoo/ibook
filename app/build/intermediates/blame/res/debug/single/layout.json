@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meeting.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\layout\\meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editpin.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\layout\\editpin.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\changepassword.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\layout\\changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screensaver.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\layout\\screensaver.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\androidaalto_screensaver_big.png",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\androidaalto_screensaver_big.png"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\androidaalto_screensaver_small.png",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\androidaalto_screensaver_small.png"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_textbox.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\custom_textbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p1.png",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_vg_android.png",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\background_vg_android.png"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\androidaalto_logo.png",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\androidaalto_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    }
+]

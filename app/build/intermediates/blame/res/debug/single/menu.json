@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\meeting_menu.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\menu\\meeting_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\week_menu.xml",
+        "source": "C:\\Users\\REINDOLF\\AndroidStudioProjects\\ibook\\app\\src\\main\\res\\menu\\week_menu.xml"
+    }
+]
